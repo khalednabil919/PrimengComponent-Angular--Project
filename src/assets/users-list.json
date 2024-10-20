@@ -1,0 +1,73 @@
+[
+    {
+      "name": "John Doe",
+      "age": 28,
+      "email_id": "johndoe@example.com",
+      "mobile": "9876543210",
+      "pincode": "123456"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 32,
+      "email_id": "janesmith@example.com",
+      "mobile": "9876543211",
+      "pincode": "654321"
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 25,
+      "email_id": "michaelj@example.com",
+      "mobile": "9876543212",
+      "pincode": "789456"
+    },
+    {
+      "name": "Emily Davis",
+      "age": 30,
+      "email_id": "emilydavis@example.com",
+      "mobile": "9876543213",
+      "pincode": "456789"
+    },
+    {
+      "name": "Chris Brown",
+      "age": 35,
+      "email_id": "chrisbrown@example.com",
+      "mobile": "9876543214",
+      "pincode": "321654"
+    },
+    {
+      "name": "Lisa Williams",
+      "age": 27,
+      "email_id": "lisawilliams@example.com",
+      "mobile": "9876543215",
+      "pincode": "159753"
+    },
+    {
+      "name": "David Wilson",
+      "age": 40,
+      "email_id": "davidwilson@example.com",
+      "mobile": "9876543216",
+      "pincode": "753159"
+    },
+    {
+      "name": "Sophia Miller",
+      "age": 22,
+      "email_id": "sophiamiller@example.com",
+      "mobile": "9876543217",
+      "pincode": "258147"
+    },
+    {
+      "name": "James Taylor",
+      "age": 29,
+      "email_id": "jamestaylor@example.com",
+      "mobile": "9876543218",
+      "pincode": "147258"
+    },
+    {
+      "name": "Olivia Martinez",
+      "age": 26,
+      "email_id": "oliviamartinez@example.com",
+      "mobile": "9876543219",
+      "pincode": "369258"
+    }
+  ]
+  
